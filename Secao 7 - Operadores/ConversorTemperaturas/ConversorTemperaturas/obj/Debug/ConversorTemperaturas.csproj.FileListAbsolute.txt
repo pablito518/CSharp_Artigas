@@ -1,0 +1,6 @@
+C:\Curso\Secao 7 - Operadores\ConversorTemperaturas\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.exe.config
+C:\Curso\Secao 7 - Operadores\ConversorTemperaturas\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.exe
+C:\Curso\Secao 7 - Operadores\ConversorTemperaturas\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.pdb
+C:\Curso\Secao 7 - Operadores\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 7 - Operadores\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.exe
+C:\Curso\Secao 7 - Operadores\ConversorTemperaturas\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.pdb

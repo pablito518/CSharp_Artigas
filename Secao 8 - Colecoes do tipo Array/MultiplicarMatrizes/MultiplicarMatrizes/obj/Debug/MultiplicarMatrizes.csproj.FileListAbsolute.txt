@@ -1,0 +1,7 @@
+C:\Curso\Secao 8 - Colecoes do tipo Array\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe.config
+C:\Curso\Secao 8 - Colecoes do tipo Array\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe
+C:\Curso\Secao 8 - Colecoes do tipo Array\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.pdb
+C:\Curso\Secao 8 - Colecoes do tipo Array\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.AssemblyReference.cache
+C:\Curso\Secao 8 - Colecoes do tipo Array\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 8 - Colecoes do tipo Array\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.exe
+C:\Curso\Secao 8 - Colecoes do tipo Array\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.pdb

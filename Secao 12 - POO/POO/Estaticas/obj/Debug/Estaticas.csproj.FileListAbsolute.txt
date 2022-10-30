@@ -1,0 +1,7 @@
+C:\Curso\Secao 12 - POO\POO\Estaticas\bin\Debug\Estaticas.exe.config
+C:\Curso\Secao 12 - POO\POO\Estaticas\bin\Debug\Estaticas.exe
+C:\Curso\Secao 12 - POO\POO\Estaticas\bin\Debug\Estaticas.pdb
+C:\Curso\Secao 12 - POO\POO\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+C:\Curso\Secao 12 - POO\POO\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 12 - POO\POO\Estaticas\obj\Debug\Estaticas.exe
+C:\Curso\Secao 12 - POO\POO\Estaticas\obj\Debug\Estaticas.pdb

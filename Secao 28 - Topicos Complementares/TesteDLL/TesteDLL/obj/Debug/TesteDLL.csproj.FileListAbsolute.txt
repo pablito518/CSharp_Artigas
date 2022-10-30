@@ -1,0 +1,12 @@
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\bin\Debug\TesteDLL.exe.config
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\bin\Debug\TesteDLL.exe
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\bin\Debug\TesteDLL.pdb
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\bin\Debug\Operacoes.dll
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\obj\Debug\TesteDLL.csproj.AssemblyReference.cache
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\obj\Debug\TesteDLL.Form1.resources
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\obj\Debug\TesteDLL.Properties.Resources.resources
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\obj\Debug\TesteDLL.csproj.GenerateResource.cache
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\obj\Debug\TesteDLL.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\obj\Debug\TesteDLL.csproj.CopyComplete
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\obj\Debug\TesteDLL.exe
+C:\Curso\Secao 28 - Topicos Complementares\TesteDLL\TesteDLL\obj\Debug\TesteDLL.pdb

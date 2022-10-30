@@ -1,0 +1,5 @@
+C:\Curso\Secao 28 - Topicos Complementares\Teste\Operacoes\bin\Debug\Operacoes.dll
+C:\Curso\Secao 28 - Topicos Complementares\Teste\Operacoes\bin\Debug\Operacoes.pdb
+C:\Curso\Secao 28 - Topicos Complementares\Teste\Operacoes\obj\Debug\Operacoes.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 28 - Topicos Complementares\Teste\Operacoes\obj\Debug\Operacoes.dll
+C:\Curso\Secao 28 - Topicos Complementares\Teste\Operacoes\obj\Debug\Operacoes.pdb

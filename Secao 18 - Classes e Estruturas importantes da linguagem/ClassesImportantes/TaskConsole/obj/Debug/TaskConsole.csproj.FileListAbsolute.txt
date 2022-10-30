@@ -1,0 +1,7 @@
+C:\Users\Pablo\source\repos\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.exe.config
+C:\Users\Pablo\source\repos\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.exe
+C:\Users\Pablo\source\repos\ClassesImportantes\TaskConsole\bin\Debug\TaskConsole.pdb
+C:\Users\Pablo\source\repos\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.exe
+C:\Users\Pablo\source\repos\ClassesImportantes\TaskConsole\obj\Debug\TaskConsole.pdb

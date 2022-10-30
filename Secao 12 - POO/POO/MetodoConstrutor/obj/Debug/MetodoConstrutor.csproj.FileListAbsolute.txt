@@ -1,0 +1,6 @@
+C:\Curso\Secao 12 - POO\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe.config
+C:\Curso\Secao 12 - POO\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe
+C:\Curso\Secao 12 - POO\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.pdb
+C:\Curso\Secao 12 - POO\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 12 - POO\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.exe
+C:\Curso\Secao 12 - POO\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.pdb

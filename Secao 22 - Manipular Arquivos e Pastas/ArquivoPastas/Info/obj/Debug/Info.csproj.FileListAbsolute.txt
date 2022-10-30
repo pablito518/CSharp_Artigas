@@ -1,0 +1,10 @@
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\bin\Debug\Info.exe.config
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\bin\Debug\Info.exe
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\bin\Debug\Info.pdb
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\obj\Debug\Info.csproj.AssemblyReference.cache
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\obj\Debug\Info.Form1.resources
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\obj\Debug\Info.Properties.Resources.resources
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\obj\Debug\Info.csproj.GenerateResource.cache
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\obj\Debug\Info.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\obj\Debug\Info.exe
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Info\obj\Debug\Info.pdb

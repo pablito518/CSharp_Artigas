@@ -1,0 +1,10 @@
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\bin\Debug\ControleErros.exe.config
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\bin\Debug\ControleErros.exe
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\bin\Debug\ControleErros.pdb
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\obj\Debug\ControleErros.csproj.AssemblyReference.cache
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\obj\Debug\ControleErros.Form1.resources
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\obj\Debug\ControleErros.Properties.Resources.resources
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\obj\Debug\ControleErros.csproj.GenerateResource.cache
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\obj\Debug\ControleErros.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\obj\Debug\ControleErros.exe
+C:\Curso\Secao 21 - Tratamento de erros\ControleErros\ControleErros\obj\Debug\ControleErros.pdb

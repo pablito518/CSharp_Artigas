@@ -1,0 +1,7 @@
+C:\Curso\Secao 4 - Variaveis, Constantes e tipos de dados\Variaveis\Variaveis\bin\Debug\Variaveis.exe.config
+C:\Curso\Secao 4 - Variaveis, Constantes e tipos de dados\Variaveis\Variaveis\bin\Debug\Variaveis.exe
+C:\Curso\Secao 4 - Variaveis, Constantes e tipos de dados\Variaveis\Variaveis\bin\Debug\Variaveis.pdb
+C:\Curso\Secao 4 - Variaveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
+C:\Curso\Secao 4 - Variaveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 4 - Variaveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\Variaveis.exe
+C:\Curso\Secao 4 - Variaveis, Constantes e tipos de dados\Variaveis\Variaveis\obj\Debug\Variaveis.pdb

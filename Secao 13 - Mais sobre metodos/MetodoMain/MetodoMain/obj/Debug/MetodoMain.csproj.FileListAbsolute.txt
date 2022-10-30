@@ -1,0 +1,6 @@
+C:\Curso\Secao 13 - Mais sobre metodos\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe.config
+C:\Curso\Secao 13 - Mais sobre metodos\MetodoMain\MetodoMain\bin\Debug\MetodoMain.exe
+C:\Curso\Secao 13 - Mais sobre metodos\MetodoMain\MetodoMain\bin\Debug\MetodoMain.pdb
+C:\Curso\Secao 13 - Mais sobre metodos\MetodoMain\MetodoMain\obj\Debug\MetodoMain.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 13 - Mais sobre metodos\MetodoMain\MetodoMain\obj\Debug\MetodoMain.exe
+C:\Curso\Secao 13 - Mais sobre metodos\MetodoMain\MetodoMain\obj\Debug\MetodoMain.pdb

@@ -1,0 +1,7 @@
+C:\Curso\Secao 13 - Mais sobre metodos\Recursividade\Recursividade\bin\Debug\Recursividade.exe.config
+C:\Curso\Secao 13 - Mais sobre metodos\Recursividade\Recursividade\bin\Debug\Recursividade.exe
+C:\Curso\Secao 13 - Mais sobre metodos\Recursividade\Recursividade\bin\Debug\Recursividade.pdb
+C:\Curso\Secao 13 - Mais sobre metodos\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.AssemblyReference.cache
+C:\Curso\Secao 13 - Mais sobre metodos\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 13 - Mais sobre metodos\Recursividade\Recursividade\obj\Debug\Recursividade.exe
+C:\Curso\Secao 13 - Mais sobre metodos\Recursividade\Recursividade\obj\Debug\Recursividade.pdb

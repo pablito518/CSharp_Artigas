@@ -1,0 +1,9 @@
+C:\Curso\Secao 28 - Topicos Complementares\MeuApp\MeuApp\bin\Release\MeuApp.exe.config
+C:\Curso\Secao 28 - Topicos Complementares\MeuApp\MeuApp\bin\Release\MeuApp.exe
+C:\Curso\Secao 28 - Topicos Complementares\MeuApp\MeuApp\bin\Release\MeuApp.pdb
+C:\Curso\Secao 28 - Topicos Complementares\MeuApp\MeuApp\obj\Release\MeuApp.Form1.resources
+C:\Curso\Secao 28 - Topicos Complementares\MeuApp\MeuApp\obj\Release\MeuApp.Properties.Resources.resources
+C:\Curso\Secao 28 - Topicos Complementares\MeuApp\MeuApp\obj\Release\MeuApp.csproj.GenerateResource.cache
+C:\Curso\Secao 28 - Topicos Complementares\MeuApp\MeuApp\obj\Release\MeuApp.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 28 - Topicos Complementares\MeuApp\MeuApp\obj\Release\MeuApp.exe
+C:\Curso\Secao 28 - Topicos Complementares\MeuApp\MeuApp\obj\Release\MeuApp.pdb

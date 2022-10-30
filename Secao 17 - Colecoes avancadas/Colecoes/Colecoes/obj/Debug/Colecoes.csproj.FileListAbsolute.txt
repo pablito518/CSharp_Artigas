@@ -1,0 +1,10 @@
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\obj\Debug\Colecoes.Form1.resources
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\obj\Debug\Colecoes.Properties.Resources.resources
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.GenerateResource.cache
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\obj\Debug\Colecoes.pdb
+C:\Curso\Secao 17 - Colecoes avancadas\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache

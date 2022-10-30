@@ -1,0 +1,7 @@
+C:\Curso\Secao 12 - POO\POO\TermoThis\bin\Debug\TermoThis.exe.config
+C:\Curso\Secao 12 - POO\POO\TermoThis\bin\Debug\TermoThis.exe
+C:\Curso\Secao 12 - POO\POO\TermoThis\bin\Debug\TermoThis.pdb
+C:\Curso\Secao 12 - POO\POO\TermoThis\obj\Debug\TermoThis.csproj.AssemblyReference.cache
+C:\Curso\Secao 12 - POO\POO\TermoThis\obj\Debug\TermoThis.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 12 - POO\POO\TermoThis\obj\Debug\TermoThis.exe
+C:\Curso\Secao 12 - POO\POO\TermoThis\obj\Debug\TermoThis.pdb

@@ -1,0 +1,10 @@
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\bin\Debug\LerEscrever.exe.config
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\bin\Debug\LerEscrever.exe
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\bin\Debug\LerEscrever.pdb
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.AssemblyReference.cache
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.Form1.resources
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.Properties.Resources.resources
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.GenerateResource.cache
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.exe
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\LerEscrever\obj\Debug\LerEscrever.pdb

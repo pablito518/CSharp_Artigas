@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulario", "Formulario\Formulario.csproj", "{885B4B21-4036-4E35-A19C-CCF0B4A69900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormControle", "FormControle\FormControle.csproj", "{67D991A1-2633-4258-909C-C1EB2625C344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormMdi", "FormMdi\FormMdi.csproj", "{C118845B-0C6F-428E-A31A-541CDF97FA51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885B4B21-4036-4E35-A19C-CCF0B4A69900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885B4B21-4036-4E35-A19C-CCF0B4A69900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885B4B21-4036-4E35-A19C-CCF0B4A69900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885B4B21-4036-4E35-A19C-CCF0B4A69900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D991A1-2633-4258-909C-C1EB2625C344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D991A1-2633-4258-909C-C1EB2625C344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D991A1-2633-4258-909C-C1EB2625C344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D991A1-2633-4258-909C-C1EB2625C344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C118845B-0C6F-428E-A31A-541CDF97FA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C118845B-0C6F-428E-A31A-541CDF97FA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C118845B-0C6F-428E-A31A-541CDF97FA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C118845B-0C6F-428E-A31A-541CDF97FA51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07EE5A05-5378-4144-9F5B-591350FF989D}
+	EndGlobalSection
+EndGlobal

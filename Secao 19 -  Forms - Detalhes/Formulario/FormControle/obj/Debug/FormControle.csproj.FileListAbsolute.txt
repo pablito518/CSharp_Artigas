@@ -1,0 +1,10 @@
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\bin\Debug\FormControle.exe.config
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\bin\Debug\FormControle.exe
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\bin\Debug\FormControle.pdb
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\obj\Debug\FormControle.csproj.AssemblyReference.cache
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\obj\Debug\FormControle.Form1.resources
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\obj\Debug\FormControle.Properties.Resources.resources
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\obj\Debug\FormControle.csproj.GenerateResource.cache
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\obj\Debug\FormControle.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\obj\Debug\FormControle.exe
+C:\Curso\Secao 19 -  Forms - Detalhes\Formulario\FormControle\obj\Debug\FormControle.pdb

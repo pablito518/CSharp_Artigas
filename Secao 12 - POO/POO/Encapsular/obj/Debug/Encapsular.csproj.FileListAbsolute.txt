@@ -1,0 +1,7 @@
+C:\Curso\Secao 12 - POO\POO\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Curso\Secao 12 - POO\POO\Encapsular\bin\Debug\Encapsular.exe
+C:\Curso\Secao 12 - POO\POO\Encapsular\bin\Debug\Encapsular.pdb
+C:\Curso\Secao 12 - POO\POO\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 12 - POO\POO\Encapsular\obj\Debug\Encapsular.exe
+C:\Curso\Secao 12 - POO\POO\Encapsular\obj\Debug\Encapsular.pdb
+C:\Curso\Secao 12 - POO\POO\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache

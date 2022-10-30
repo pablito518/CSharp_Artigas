@@ -1,0 +1,6 @@
+C:\Curso\Secao 13 - Mais sobre metodos\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe.config
+C:\Curso\Secao 13 - Mais sobre metodos\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.exe
+C:\Curso\Secao 13 - Mais sobre metodos\FatorialRecursivo\FatorialRecursivo\bin\Debug\FatorialRecursivo.pdb
+C:\Curso\Secao 13 - Mais sobre metodos\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 13 - Mais sobre metodos\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.exe
+C:\Curso\Secao 13 - Mais sobre metodos\FatorialRecursivo\FatorialRecursivo\obj\Debug\FatorialRecursivo.pdb

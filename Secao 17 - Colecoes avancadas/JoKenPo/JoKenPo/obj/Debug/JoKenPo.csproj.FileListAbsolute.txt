@@ -1,0 +1,10 @@
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe.config
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\bin\Debug\JoKenPo.exe
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\bin\Debug\JoKenPo.pdb
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.AssemblyReference.cache
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Form1.resources
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\obj\Debug\JoKenPo.Properties.Resources.resources
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.GenerateResource.cache
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\obj\Debug\JoKenPo.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\obj\Debug\JoKenPo.exe
+C:\Curso\Secao 17 - Colecoes avancadas\JoKenPo\JoKenPo\obj\Debug\JoKenPo.pdb

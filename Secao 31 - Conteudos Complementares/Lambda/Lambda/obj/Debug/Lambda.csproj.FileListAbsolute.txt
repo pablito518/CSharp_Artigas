@@ -1,0 +1,10 @@
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\obj\Debug\Lambda.Form1.resources
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\obj\Debug\Lambda.Properties.Resources.resources
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\obj\Debug\Lambda.csproj.GenerateResource.cache
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Curso\Secao 31 - Conteudos Complementares\Lambda\Lambda\obj\Debug\Lambda.pdb

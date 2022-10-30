@@ -1,0 +1,10 @@
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\bin\Debug\Diretorio.exe.config
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\bin\Debug\Diretorio.exe
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\bin\Debug\Diretorio.pdb
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.AssemblyReference.cache
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\obj\Debug\Diretorio.Form1.resources
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\obj\Debug\Diretorio.Properties.Resources.resources
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.GenerateResource.cache
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\obj\Debug\Diretorio.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\obj\Debug\Diretorio.exe
+C:\Curso\Secao 22 - Manipular Arquivos e Pastas\ArquivoPastas\Diretorio\obj\Debug\Diretorio.pdb

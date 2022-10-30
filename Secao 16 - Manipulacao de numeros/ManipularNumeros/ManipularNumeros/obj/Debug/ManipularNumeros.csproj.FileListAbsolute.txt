@@ -1,0 +1,10 @@
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe.config
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.exe
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\bin\Debug\ManipularNumeros.pdb
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.AssemblyReference.cache
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Form1.resources
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.Properties.Resources.resources
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.GenerateResource.cache
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.exe
+C:\Curso\Secao 16 - Manipulacao de numeros\ManipularNumeros\ManipularNumeros\obj\Debug\ManipularNumeros.pdb

@@ -1,0 +1,10 @@
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\bin\Debug\ManipularStrings.exe.config
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\bin\Debug\ManipularStrings.exe
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\bin\Debug\ManipularStrings.pdb
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\obj\Debug\ManipularStrings.csproj.AssemblyReference.cache
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\obj\Debug\ManipularStrings.Form1.resources
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\obj\Debug\ManipularStrings.Properties.Resources.resources
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\obj\Debug\ManipularStrings.csproj.GenerateResource.cache
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\obj\Debug\ManipularStrings.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\obj\Debug\ManipularStrings.exe
+C:\Curso\Secao 15 - Manipulacao de strings\ManipularStrings\ManipularStrings\obj\Debug\ManipularStrings.pdb

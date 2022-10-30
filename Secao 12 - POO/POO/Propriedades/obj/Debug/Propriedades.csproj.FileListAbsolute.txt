@@ -1,0 +1,6 @@
+C:\Curso\Secao 12 - POO\POO\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Curso\Secao 12 - POO\POO\Propriedades\bin\Debug\Propriedades.exe
+C:\Curso\Secao 12 - POO\POO\Propriedades\bin\Debug\Propriedades.pdb
+C:\Curso\Secao 12 - POO\POO\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Curso\Secao 12 - POO\POO\Propriedades\obj\Debug\Propriedades.exe
+C:\Curso\Secao 12 - POO\POO\Propriedades\obj\Debug\Propriedades.pdb

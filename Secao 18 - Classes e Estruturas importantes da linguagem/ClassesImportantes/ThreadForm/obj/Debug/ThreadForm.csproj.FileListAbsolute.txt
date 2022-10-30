@@ -1,0 +1,10 @@
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\bin\Debug\ThreadForm.exe.config
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\bin\Debug\ThreadForm.exe
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\bin\Debug\ThreadForm.pdb
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.Form1.resources
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.Properties.Resources.resources
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.exe
+C:\Users\Pablo\source\repos\ClassesImportantes\ThreadForm\obj\Debug\ThreadForm.pdb
